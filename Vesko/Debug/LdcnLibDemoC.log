@@ -1,0 +1,21 @@
+﻿Build started 6/05/2016 11:49:02 a.m..
+     1>Project "C:\Users\mcflemme\Desktop\Logos3\Vesko\LdcnLibDemoC.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\LdcnLibDemoC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\LdcnLibDemoC.unsuccessfulbuild".
+         Touching ".\Debug\LdcnLibDemoC.lastbuildstate".
+     1>Done Building Project "C:\Users\mcflemme\Desktop\Logos3\Vesko\LdcnLibDemoC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
